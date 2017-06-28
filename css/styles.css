@@ -1,0 +1,20 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+</style>
+
+.best{
+  color: #94d9fc;
+}
+
+.heaven{
+  color: #9bddff;
+  font-family: 'Quicksand' , sans-serif;
+  font-style: italic;
+  text-shadow: 4px 4px 4px #aaa;
+  font-size: 65px;
+
+}
+.flashy{
+  color: red;
+  font-style: italic;
+}
